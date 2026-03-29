@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\LabResultsAgent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|LabResultsAgent.csproj|c:\\users\\hp\\labresultsagent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|LabResultsAgent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|LabResultsAgent.csproj|c:\\users\\hp\\labresultsagent\\questioncheckeragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|LabResultsAgent.csproj|solutionrelative:questioncheckeragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|LabResultsAgent.csproj|c:\\users\\hp\\labresultsagent\\labresultsagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|LabResultsAgent.csproj|solutionrelative:labresultsagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|LabResultsAgent.csproj|c:\\users\\hp\\labresultsagent\\labresultsagent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|LabResultsAgent.csproj|solutionrelative:labresultsagent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionCheckerAgent.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\LabResultsAgent\\QuestionCheckerAgent.cs",
+              "RelativeDocumentMoniker": "QuestionCheckerAgent.cs",
+              "ToolTip": "C:\\Users\\Hp\\LabResultsAgent\\QuestionCheckerAgent.cs",
+              "RelativeToolTip": "QuestionCheckerAgent.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:41:02.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabResultsAgent.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\LabResultsAgent\\LabResultsAgent.csproj",
+              "RelativeDocumentMoniker": "LabResultsAgent.csproj",
+              "ToolTip": "C:\\Users\\Hp\\LabResultsAgent\\LabResultsAgent.csproj",
+              "RelativeToolTip": "LabResultsAgent.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T15:45:00.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabResultsAgent.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\LabResultsAgent\\LabResultsAgent.cs",
+              "RelativeDocumentMoniker": "LabResultsAgent.cs",
+              "ToolTip": "C:\\Users\\Hp\\LabResultsAgent\\LabResultsAgent.cs",
+              "RelativeToolTip": "LabResultsAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:27:00.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\LabResultsAgent\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\LabResultsAgent\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T14:28:50.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

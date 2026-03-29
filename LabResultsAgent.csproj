@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>LabResultsAgent</RootNamespace>
+    <AssemblyName>LabResultsAgent</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Microsoft Agent Framework - core agent abstractions -->
+    <PackageReference Include="Microsoft.Agents.AI" Version="1.0.0-preview.260209.1" />
+    <!-- Agent Framework workflows -->
+    <PackageReference Include="Microsoft.Agents.AI.Workflows" Version="1.0.0-preview.251113.1" />
+    <!-- Ollama via OllamaSharp (implements Microsoft.Extensions.AI.IChatClient) -->
+    <PackageReference Include="OllamaSharp" Version="5.4.16" />
+  </ItemGroup>
+
+</Project>
